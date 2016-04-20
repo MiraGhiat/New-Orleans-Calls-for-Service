@@ -1,0 +1,74 @@
+Type_
+100            37776
+100F              31
+100I            3154
+100X              49
+101                9
+102              512
+1028P            282
+103           193695
+103D           38008
+103F           22620
+103M           20907
+1055              81
+106             3305
+107           123583
+107S             101
+107U              79
+108               93
+110               96
+110E               6
+112               35
+118                8
+17               147
+17F            69104
+17J              375
+17M            40234
+17R            16287
+17T             5775
+18            394382
+18A               97
+18DE            4998
+               ...  
+80                76
+81               209
+82               619
+83                68
+84                26
+87                 1
+89               321
+90                35
+90D               48
+91                 1
+911            24357
+911TXTTEST         9
+92                41
+93               132
+94             15485
+94F             2689
+94S                4
+95               341
+95G             1589
+95K              119
+966            14700
+97                 4
+98              5747
+99             21480
+ASSOC1             1
+MISC               4
+NOPD             512
+SIGN               1
+TESTL             13
+WALK            1832
+Name: NOPD_Item, dtype: int64
+The most common call Fraction:  579097.0000000000
+Type of most common call:  Type_
+21    True
+Name: NOPD_Item, dtype: bool
+Median Response Time is :  13.0000000000
+Mean Response time in seconds is:  288.8316450220 
+ Distance from max is:  86815.1683549780 
+ Distance from min is:  423877.8316450220
+the Largest ratio of a conditional probability: 0.1481732125
+the Largest decrease between 11-15: 46716.0000000000 
+ the decrease represent:  0.0915725282 of 2011 call fraction
