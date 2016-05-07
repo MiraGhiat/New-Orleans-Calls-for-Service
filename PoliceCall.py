@@ -38,7 +38,7 @@ Type_most_common_call = call_count_bygroup.index[bool == True]
 print("The most common call Fraction: ", "%.10f" %fraction_most_common_call, "\n")
 print("Type of most common call: ", Type_most_common_call, "\n")
 
-# Median reponse time  ///no need to groupby
+# Median reponse time  
 Timearrive = data['TimeArrive']
 Timedispatch = data['TimeDispatch']
 ResponseTime = pandas.Series(f(Timearrive) - f(Timedispatch), name = 'ResponseTime')
