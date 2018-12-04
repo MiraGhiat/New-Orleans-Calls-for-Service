@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-__author__ = 'Ghiat Mira'
+__author__ = 'G. M.'
 
 import pandas
 import glob
@@ -116,7 +116,7 @@ print("Smallest Fraction of the of the most common call priority: ", "%.10f" %le
 
 
 =======
-__author__ = 'Ghiat Mira'
+__author__ = 'G. M.'
 
 import pandas
 import glob
@@ -232,4 +232,4 @@ print("Smallest Fraction of the of the most common call priority: ", "%.10f" %le
 
 
 
->>>>>>> 321c3e4cb46c09a7421049c0f29c5765ace1a375
+
